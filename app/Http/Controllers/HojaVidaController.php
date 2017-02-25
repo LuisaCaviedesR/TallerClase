@@ -12,6 +12,6 @@ class HojaVidaController extends Controller
     }
     //
     public function hojaVida(Request $request,$nombre){
-        return view('HojaVida/');
+        return view('HojaVida/'.$nombre.'');
     }
 }
