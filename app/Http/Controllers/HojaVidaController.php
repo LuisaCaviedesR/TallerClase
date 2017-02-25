@@ -9,7 +9,7 @@ class HojaVidaController extends Controller
 {
 
     public function index(){
-       return view('hojaVida/index');
+       return view('HojaVida/index');
     }
     //
     public function hojaVida(Request $request,$nombre){
