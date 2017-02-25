@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('Layout.app')
 @section('contenido')
 
 A continuación Encontrara las hojas de vida de las integrantes del Grupo:
