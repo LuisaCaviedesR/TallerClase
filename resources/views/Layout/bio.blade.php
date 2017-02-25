@@ -7,6 +7,9 @@
         <meta name="author" content="Erika Estefania Luisa">
     </head>
     <body>
-        <div>@yield('Contenido')</div>
+        <div>@yield('Foto')</div>
+        <div>@yield('InformacionPersonal')</div>
+        <div>@yield('InformacionAcademica')</div>
+        <div>@yield('ExperienciaLaboral')</div>
     </body>
 </html>
