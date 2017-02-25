@@ -1,4 +1,5 @@
 @extendes ('layout.bio')
+
 @section ('foto')
 @stop
 
@@ -10,8 +11,14 @@
 @stop
 
 @section ('InformacionAcademica')
+Primaria: La Santisima Trinidad
+Bachiller: Colegio Maria Inmaculada
+Pregrado: Ingeniero de Software
+Postgrado: Maestria en Gerencia de Proyectos de Software
 @stop
 
 
-@section ('Experiencia Labiral)
+@section ('Experiencia Laboral)
+Docente de Pregrado
+Directora de Programa
 @stop
