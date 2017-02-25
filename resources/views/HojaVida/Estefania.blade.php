@@ -24,5 +24,6 @@
 @stop
 
 @section('ExperienciaLaboral')
-    Webde
+    Desarrolladora móvil/Maquetación web - Webde
+    Ingeniera de Soporte - Rentec S.A.S
 @stop

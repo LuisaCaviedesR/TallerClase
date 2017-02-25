@@ -15,4 +15,8 @@ class HojaVidaController extends Controller
     public function hojaVida(Request $request,$nombre){
         return view('HojaVida/'.$nombre.'');
     }
+
+    public function formulario(Request $request,$nombre){
+       return view('Form/Form'.$nombre.'');
+    }
 }

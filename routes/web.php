@@ -21,3 +21,4 @@ Route::get('hojasVida/index','HojaVidaController@index');
 Route::get('hojasVida/{nombre}','HojaVidaController@hojaVida');
 
 
+Route::get('formulario/{nombre}','HojaVidaController@formulario');
